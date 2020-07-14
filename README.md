@@ -1,1 +1,1 @@
-# spapp
+# SpiceUp
